@@ -21,7 +21,7 @@ mindmap
         <!-- The word "workshop" was taken from us. -->
         **The Workrooms**
         Brick by boring brick.
-        <!-- Or the wolf's gonna blow it down -->
+        <!-- Or the wolf's gonna blow it down. -->
     )
       [
         **boxes**
@@ -30,7 +30,7 @@ mindmap
     (
         **The Archive**
         Your memory will carry on.
-        <!-- We'll carry on -->
+        <!-- We'll carry on. -->
     )
       [
         **atlas**
