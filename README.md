@@ -45,4 +45,8 @@ mindmap
         **grimm**
         WebGPU engine that draws my website backgrounds.
       ]
+      [
+        **dotme**
+        Personal website, blog, portfolio, etc.
+      ]
 ```
