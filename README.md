@@ -46,7 +46,7 @@ mindmap
         WebGPU engine that draws my website backgrounds.
       ]
       [
-        **dotme**
+        **vox**
         Personal website, blog, portfolio, etc.
       ]
 ```
