@@ -42,6 +42,10 @@ mindmap
         <!-- Until the end of my life. -->
     )
       [
+        **ceres**
+        Teeny tiny UI framework for the web.
+      ]
+      [
         **grimm**
         WebGPU engine that draws my website backgrounds.
       ]
