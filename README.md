@@ -43,7 +43,7 @@ mindmap
     )
       [
         **ceres**
-        Teeny tiny UI framework for the web.
+        Web development for me.
       ]
       [
         **grimm**
