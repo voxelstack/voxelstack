@@ -49,10 +49,6 @@ mindmap
           **ceres-dev**
           Documentation website.
         }}
-        {{
-          **create-ceres**
-          npm initializer.
-        }}
       [
         **grimm**
         WebGPU engine that draws my website backgrounds.
