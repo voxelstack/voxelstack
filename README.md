@@ -57,6 +57,10 @@ mindmap
         **vox**
         Personal website, blog, portfolio, etc.
       ]
+      [
+        **lux**
+        Animation library for interactive visualizations.
+      ]
     (
       **The Theater**
       Oh baby, I’m a fool for you.
