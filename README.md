@@ -61,10 +61,6 @@ mindmap
         **lux**
         Animation library for interactive visualizations.
       ]
-        {{
-          **lux-godot**
-          Godot backend.
-        }}
     (
       **The Theater**
       Oh baby, I’m a fool for you.
