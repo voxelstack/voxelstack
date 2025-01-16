@@ -17,6 +17,10 @@ mindmap
         **icanc**
         CLI tool for leetcode.
       ]
+      [
+        **ahk**
+        My AutoHotkey scripts.
+      ]
     (
         <!-- The word "workshop" was taken from us. -->
         **The Workrooms**
