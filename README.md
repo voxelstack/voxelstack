@@ -21,6 +21,10 @@ mindmap
         **ahk**
         My AutoHotkey scripts.
       ]
+      [
+        **config**
+        Not dotfiles.
+      ]
     (
         <!-- The word "workshop" was taken from us. -->
         **The Workrooms**
@@ -66,8 +70,4 @@ mindmap
       Oh baby, I’m a fool for you.
       <!-- You're the queen of the superficial. -->
     )
-      [
-        **maxmipmap**
-        Raymarching heightfields.
-      ]
 ```
