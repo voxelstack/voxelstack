@@ -1,4 +1,4 @@
-I am moving to [codeberg](https://codeberg.org/voxelstack), and you should too.
+I am moving to a self hosted [forgejo](https://git.voxelstack.net/voxelstack) instance, and you should too.
 
 <hr/>
 
